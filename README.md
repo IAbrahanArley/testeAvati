@@ -6,14 +6,16 @@ Este é um projeto simples de login com uma tela de **Dashboard** que é acessad
 
 
 ## Como Usar
+### Opção 1: Acessar o link:
+https://iabrahanarley.github.io/testeAvati/
 
-### Opção 1: Abrir Diretamente no Navegador
+### Opção 2: Abrir Diretamente no Navegador
 
 1. Navegue até o diretório onde os arquivos estão localizados.
 2. Abra o arquivo `index.html` diretamente no seu navegador.
    - Você pode fazer isso clicando duas vezes sobre o arquivo `index.html` ou clicando com o botão direito e selecionando **"Abrir com"** e escolhendo o navegador de sua preferência.
    
-### Opção 2: Usar o Live Server (Recomendado para Testes)
+### Opção 3: Usar o Live Server (Recomendado para Testes)
 
 1. Abra o **Visual Studio Code** (VSCode) no diretório do projeto.
 2. Instale a extensão **Live Server**:
